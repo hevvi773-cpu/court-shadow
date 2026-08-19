@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "navigationBarTitleText": "宫廷暗影",
+    "navigationBarBackgroundColor": "#1c1430",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#1c1430"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
