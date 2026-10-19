@@ -4,7 +4,6 @@
 
 - 🎮 网页原型：`court-shadow.html`（单文件，浏览器 / 手机浏览器直接打开即玩）
 - 📐 规则文档：`court-shadow-rules.md`
-- ☁️ 在线试玩：`https://520263ad76e74faaa3ff8fa79e27df1f.app.workbuddy.link`
 
 ---
 
@@ -100,7 +99,7 @@ court-game-build/        # 部署用副本
 ## 六、运行 / 部署
 
 - **本地**：直接用浏览器打开 `court-shadow.html` 即可。
-- **分享**：已部署到 CloudStudio，手机浏览器打开上面的在线链接即可双人 / 单人（含 AI 对手）试玩。
+- **分享**：网页原型是单文件零依赖，把 `court-shadow.html` 发给对方即可打开试玩，支持双人对战与单人 AI 对手。
 - **小程序**：`wechat-miniprogram/` 是初始脚手架，仍需补全页面逻辑，暂未上线。
 
 ---
